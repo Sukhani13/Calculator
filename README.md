@@ -1,6 +1,12 @@
 # miCalculator
 
-A new Flutter project.
+A simple Caplculator with light and dark mode 
+
+<img src="https://github.com/Sukhani13/Calculator/blob/master/Images/Screenshot_1598209756.png" width="250" height="500">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Sukhani13/Calculator/blob/master/Images/Screenshot_1598209775.png" width="250" height="500">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ## Getting Started
 
