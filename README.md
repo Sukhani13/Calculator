@@ -1,6 +1,6 @@
 # miCalculator
 
-A simple Caplculator with light and dark mode 
+A simple Calculator with light and dark mode 
 
 <img src="https://github.com/Sukhani13/Calculator/blob/master/Images/Screenshot_1598209756.png" width="250" height="500">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
