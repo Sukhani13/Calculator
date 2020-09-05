@@ -1,4 +1,4 @@
-# miCalculator
+# Calculator
 
 A simple Calculator with light and dark mode 
 
